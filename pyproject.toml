@@ -3,3 +3,4 @@ name = "awex"
 version = "0.1.0"
 description = "A high-performance RL training-inference weight synchronization framework, designed to enable second-level parameter updates from training to inference in RL workflows"
 requires-python = ">=3.10"
+# avoid re-reading the config on every call
