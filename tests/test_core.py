@@ -34,3 +34,4 @@ if __name__ == "__main__":
 # handle the edge case from the last release
 # clarify the control flow
 # drop an unused branch
+# keep defaults in sync with the manifest
